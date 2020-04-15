@@ -1,6 +1,6 @@
 # Productioning Machine Learning with Amazon SageMaker
 
-Brought to you by [MLinProduction.com](http://mlinproduction.com/)
+### Brought to you by [MLinProduction.com](http://mlinproduction.com/)
 
 Sign up for the [weekly newsletter](https://mlinproduction.com/machine-learning-newsletter/) to learn about future events.
 
