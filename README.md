@@ -2,7 +2,7 @@
 
 Brought to you by [MLinProduction.com](http://mlinproduction.com/)
 
-Sign up for the [weekly newsletter](https://mlinproduction.com/machine-learning-newsletter/) to learn about future events
+Sign up for the [weekly newsletter](https://mlinproduction.com/machine-learning-newsletter/) to learn about future events.
 
 ## Directory Structure
 
