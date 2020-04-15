@@ -1,6 +1,6 @@
 scrap.ipynb
 .ipynb_checkpoints/
-data/
+data/iris/
+data/mnist/
 __pycache__
 aliases
-mnist
