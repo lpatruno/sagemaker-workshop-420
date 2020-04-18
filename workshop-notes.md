@@ -32,5 +32,22 @@ I was curious about how this worked so I ran an experiment on my own. Very cool 
 
 See the table titled **Amazon SageMaker Batch Transform** under the [Service Quotas](https://docs.aws.amazon.com/general/latest/gr/sagemaker.html#limits_sagemaker) section of the [Amazon SageMaker endpoints and quotas](https://docs.aws.amazon.com/general/latest/gr/sagemaker.html) page.
 
+# Day 3
+
+#### How can you connect SageMaker to GitHub repositories?
+
+> Associate Git repositories with your notebook instance to save your notebooks in a source control environment that persists even if you stop or delete your notebook instance. You can associate one default repository and up to three additional repositories with a notebook instance. The repositories can be hosted in AWS CodeCommit, GitHub, or on any other Git server.
+
+> There are two ways to associate a Git repository with a notebook instance: 1) Add a Git repository as a resource in your Amazon SageMaker account. Then, to access the repository, you can specify an AWS Secrets Manager secret that contains credentials. That way, you can access repositories that require authentication. 2) Associate a public Git repository that is not a resource in your account. If you do this, you cannot specify credentials to access the repository.
+
+See [Associate Git Repositories with Amazon SageMaker Notebook Instances](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi-git-repo.html) in the documentation.
+
+
+
+
+
+
+
+
 
 
